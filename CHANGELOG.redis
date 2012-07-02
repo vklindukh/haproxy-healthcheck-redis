@@ -1,0 +1,11 @@
+ChangeLog Popover :
+===========
+
+2012/05/24 : 1.4.21-1
+    - MAJOR: write health status to redis
+	configured by:
+	[...]
+	global
+	     redis_server <IP> <port>
+	[...]
+
